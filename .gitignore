@@ -3,3 +3,5 @@ pancancer_clinical.txt
 pancancer_mutations.maf.gz
 pancancer_mutations_merged.csv
 pancancer_case_features.csv
+all_thresholded.by_genes_whitelisted.tsv
+pancancer_mutations.maf
