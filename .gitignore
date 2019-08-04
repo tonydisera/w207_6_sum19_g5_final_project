@@ -5,3 +5,9 @@ data/somatic_mutations_test.csv
 data/somatic_mutations_train.csv
 data/features_*.csv
 data
+metrics/old runs
+metrics/run_08-01-2019
+raw
+confusion_*.csv
+prf_by_class_*.csv
+metrics.csv
