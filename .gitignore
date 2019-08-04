@@ -4,3 +4,4 @@ data/somatic_mutations.maf.gz
 data/somatic_mutations_test.csv
 data/somatic_mutations_train.csv
 data/features_*.csv
+data
